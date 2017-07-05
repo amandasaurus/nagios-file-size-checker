@@ -1,0 +1,4 @@
+[root]
+name = "nagios-file-size-checker"
+version = "0.1.0"
+
