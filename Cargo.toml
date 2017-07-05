@@ -1,0 +1,6 @@
+[package]
+name = "nagios-file-size-checker"
+version = "0.1.0"
+authors = ["Rory McCann <rory@technomancy.org>"]
+
+[dependencies]
